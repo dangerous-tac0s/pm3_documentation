@@ -12,5 +12,4 @@
 ### Learning the Proxmark
 - [Basic Usage](PROXMARK_BASICS.md)
 - [Identifying Transponders](PROXMARK_ID_TRANSPONDER.md)
-<!-- - [Low Frequency aka 125 kHz aka RFID]() -->
-<!-- - [High Frequency aka 13.56 MHz aka NFC]() -->
+- [Cloning Transponders](PROXMARK_CLONING.md)
