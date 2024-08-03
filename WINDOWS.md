@@ -76,10 +76,11 @@ Have a suggestion? Contact [me](operations@dangerousthings.com) or open a PR.
 		```
   
 	* ##### 2 Optional
-		 Run the following to automatically start the Proxmark 3 client when you start ProxSpace using "runme64.bat": [^2_optional_details]
-		  ```bash
-		  echo proxmark3/pm3 >> ../.bashrc
-		  ```
+		
+		Run the following to automatically start the Proxmark 3 client when you start ProxSpace using "runme64.bat": [^2_optional_details]
+		```bash
+		echo proxmark3/pm3 >> ../.bashrc
+		```
 
 ## Congratulations!
 You've finished setting up your Proxmark. If you did the last optional step, you should see this prompt:
