@@ -12,7 +12,7 @@ MIFARE Classic 1k 4-byte UID Implant Options
       B2 --> B2.1{xMagic}
       B2.1 -- version --> B2.1a[gen1a]
 
-      C -- format --> C1[Narrow Flex]
+      C -- format --> C1[Narrow]
       C1 --> C1.1[Magic MIFARE Only]
       C1.1 --> C1.1a{flexM1} & C1.1b{flexUG4}
       C1.1a -- version --> C1.1a_1[gen1a] & C1.1a_2[gen2]
