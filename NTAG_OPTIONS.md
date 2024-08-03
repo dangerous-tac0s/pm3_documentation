@@ -13,7 +13,7 @@ NTAG Implant Options
       B3 --> B3.1[NExT];
       B3.1 -- type --> B3.1a[216];
 
-      C --> C1[Wide];
+      C -- format --> C1[Wide];
       C1 --> C1a[flexNT];
       C1a -- type --> C1a_1[216];
 ```
