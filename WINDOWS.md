@@ -1,5 +1,5 @@
 # Windows Setup
-This guide was created using Windows 11 but should work with any 64-bit version of Windows. It is intended to be alongside [this video](). Set aside at 30-minutes for this process. Actual time will vary based on system resources and your comfort level with command line interfaces.
+This guide was created using Windows 11 but should work with any 64-bit version of Windows. It is intended to be alongside [this video](). Set aside at least 30-minutes for this process. Actual time will vary based on system resources and your comfort level with command line interfaces.
 
 Have a suggestion? Contact [me](operations@dangerousthings.com) or open a PR.
 
