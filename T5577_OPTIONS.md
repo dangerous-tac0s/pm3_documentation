@@ -20,7 +20,7 @@ T5577 Implant Options
 
 #### Further Reading
 - [Flex Formats](FLEX_FORMATS.md)
-- [NTAG216 Information](NTAG216.md)
+- [NTAG Information](NTAG.md)
 - [Magic MIFARE Version Information](MAGIC_MIFARE_VERSIONS.md)
 - [t5577 Information](T5577.md)
 
