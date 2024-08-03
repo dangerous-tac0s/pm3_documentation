@@ -1,0 +1,5 @@
+```mermaid
+flowchart LR
+A{Form Factor}
+    A --> B1[X-Series] & C1[Flex]
+```
