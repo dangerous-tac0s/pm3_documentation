@@ -1,15 +1,15 @@
-# Dangerous Things Proxmark 3 Easy Documentation
+# Proxmark 3 Easy Documentation
 
-## Setup
+### Setup
 - [Windows](windows.md)
 - [Mac](mac.md)
 
-## Updating
+### Updating
 - ProxSpace
   - You shouldn't need to update this.
 - [Proxmark](update_proxmark.md)
 
-## Learning the Proxmark
+### Learning the Proxmark
 - [Basic Usage](proxmark_basics.md)
 - [Identifying Transponders](proxmark_id_transponder.md)
 <!-- - [Low Frequency aka 125 kHz aka RFID]() -->
