@@ -19,6 +19,6 @@ High Frequency aka 13.56 Mhz aka NFC
 ### Choosing an Implant
 - [DESFire](DESFIRE_OPTIONS.md)
 - [MIFARE Classic 1k 4-byte UID](MIFARE_CLASSIC_1K_4B_OPTIONS.md)
-- [Other MIFARE](https://dngr.us/flexug4)
+- [Other Listed MIFARE](https://dngr.us/flexug4)
 - [NTAG](NTAG_OPTIONS.md)
 - [ICODE SLIX](https://dngr.us/xslx)
