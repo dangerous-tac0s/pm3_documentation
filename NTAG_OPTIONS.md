@@ -21,7 +21,7 @@ NTAG Implant Options
 
 ### Further Reading
 - [Flex Formats](FLEX_FORMATS.md)
-- [NTAG Inforation](NTAG_INFORMATION.md)
+- [NTAG Information](NTAG.md)
 
 ### Product Links
 - [xNT](https://dngr.us/xnt)
