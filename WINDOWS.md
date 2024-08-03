@@ -92,7 +92,7 @@ TODO: add image
 
 Enter "pm3" to connect to the Proxmark.
 
-Want to get familiar with using the Proxmark? [Click here](proxmark_basics.md).
+Want to get familiar with using the Proxmark? [Click here](PROXMARK_BASICS.md).
 
 ---
 
