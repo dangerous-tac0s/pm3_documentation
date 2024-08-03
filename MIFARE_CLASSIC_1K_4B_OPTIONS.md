@@ -25,7 +25,7 @@ MIFARE Classic 1k 4-byte UID Implant Options
 - [t5577 Information](T5577.md)
 
 #### Product Links
-- [xM1](dngr.us/xm1)
-- [xMagic](dngr.us/xmagic)
-- [flexM1](dngr.us/flexm1)
-- [flexUG4](dngr.us/flexug4)
+- [xM1](https://dngr.us/xm1)
+- [xMagic](https://dngr.us/xmagic)
+- [flexM1](https://dngr.us/flexm1)
+- [flexUG4](https://dngr.us/flexug4)
