@@ -25,7 +25,7 @@ T5577 Implant Options
 - [t5577 Information](T5577.md)
 
 #### Product Links
-- [xM1](dngr.us/xem)
+- [xEM](dngr.us/xem)
 - [NExT](dngr.us/next)
 - [xMagic](dngr.us/xmagic)
-- [flexM1](dngr.us/flexem)
+- [flexEM](dngr.us/flexem)
