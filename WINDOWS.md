@@ -29,7 +29,7 @@ Have a suggestion? Contact [me](operations@dangerousthings.com) or open a PR.
 				```
 				This will allow easy access to the ProxSpace directory. It should be done for every user account that needs access to the Proxmark. Not necessary if you installed to your home directory.
 	* ##### 1d.
-  		Press the windows key + r and type "cmd" in the "Open" field of the run dialog and hit the "OK" button or the enter key. [^1d_details]
+  		Press the windows key + r and type "cmd" in the "Open" field of the "Run" dialog and hit the "OK" button or the enter key. [^1d_details]
 
 
 > [!IMPORTANT]
