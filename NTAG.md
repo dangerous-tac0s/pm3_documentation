@@ -1,5 +1,8 @@
 # NTAG Information
 
+> [!NOTE]
+> This is not a complete overview. The focus is on the most relevant information to people interested in implants.
+
 | Name         | UID Size   | NDEF Capacity (in bytes)    | Data Sharing | Clone-able   | Power Harvesting |
 | :----------: | :--------: | :-------------------------: | :----------: | :----------: | :--------------: |
 | 210          | 7-bytes    | 48                          | Yes          | Yes          | No               |
