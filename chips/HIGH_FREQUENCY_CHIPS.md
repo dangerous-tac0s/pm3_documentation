@@ -24,4 +24,6 @@ High Frequency aka 13.56 Mhz aka NFC
 - [ICODE SLIX](https://dngr.us/xslx)
 
 ---
-### [Back to Identifying Chips](PROXMARK_ID.md)
+### Back to:
+- [Identifying Chips](../basics/ID_CHIPS.md)
+- [Home](../README.md)

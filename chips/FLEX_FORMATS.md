@@ -14,3 +14,4 @@ The name "flex" is to differentiate them from their rigid x-series counterparts.
 - [DESFire Options](DESFIRE_OPTIONS.md)
 - [MIFARE Classic 1k 4-byte Options](MIFARE_CLASSIC_1K_4B.md)
 - [NTAG Options](NTAG_OPTIONS.md)
+- [Home](../README.md)

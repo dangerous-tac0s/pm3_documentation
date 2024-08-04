@@ -31,4 +31,6 @@ T5577 Implant Options
 - [flexEM](https://dngr.us/flexem)
 
 ---
-**[Back to Low Frequency Chips](LOW_FREQUENCY_CHIPS.md)**
+### Back to:
+- [Low Frequency Chips](LOW_FREQUENCY_CHIPS.md)**
+- [Home](../README.md)

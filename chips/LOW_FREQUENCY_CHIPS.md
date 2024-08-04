@@ -17,4 +17,6 @@ Low Frequency aka 125 kHz aka RFID
 - [Hitag 2048](https://dngr.us/xht)
 
 ---
-### [Back to Identifying Chips](PROXMARK_ID.md)
+### Back to:
+- [Identifying Chips](../basics/ID_CHIPS.md)
+- [Home](../README.md)

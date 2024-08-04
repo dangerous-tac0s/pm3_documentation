@@ -21,4 +21,6 @@ DESFire Implant Options
 - [flexDF2](https://dngr.us/flexdf2)
 
 ---
-[Back to High Frequency Chips](HIGH_FREQUENCY_CHIPS.md)
+### Back to:
+- [High Frequency Chips](HIGH_FREQUENCY_CHIPS.md)
+- [Home](../README.md)
