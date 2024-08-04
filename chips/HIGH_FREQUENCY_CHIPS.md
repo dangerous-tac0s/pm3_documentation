@@ -1,5 +1,9 @@
 # High Frequency aka 13.56 Mhz aka NFC
 
+This details the chips that we currently have implants for. If what you found isn't listed, we might be able to [convert it](https://dngr.us/conversion).
+
+---
+
 ```mermaid
   flowchart LR;
     A[ISO 14443] --> A1 & A2;
