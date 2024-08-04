@@ -1,5 +1,4 @@
-NTAG Implant Options
----
+# NTAG Implant Options
 
 ```mermaid
   flowchart TD;
