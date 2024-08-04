@@ -9,6 +9,9 @@
 #### Durability and Placement
 The name "flex" is to differentiate them from their rigid x-series counterparts. Placement of these devices in an area where the body is subject flexion should be avoided--especially with narrow flex devices. Placement of these devices over bone is fine--unlike with an x-series.
 
+#### Directionality
+This refers to the orientation of the implant's antenna required to couple with readers.
+
 ---
 ### Back to:
 - [DESFire Options](DESFIRE_OPTIONS.md)
