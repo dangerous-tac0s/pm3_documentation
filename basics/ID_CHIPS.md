@@ -32,7 +32,7 @@ You'll need NXP's TagInfo:
 - Scan the tag
   - Android phones tend to have a reader along the back. Slowly slide the transponder along the back until it registers then hold it in place.
   - iPhones have their reader along the top.
-- If it didn't register, fire up the Proxmark.
+- If it didn't register, [fire up the Proxmark](ID_CHIPS.md#proxmark).
 - Here are some example scans that show what we're interested in:
 <img alt="MIFARE Classic 1k example" src="images/taginfo/mifare_classic.png" width="75%"/>
 
