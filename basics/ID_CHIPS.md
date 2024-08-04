@@ -46,6 +46,8 @@ Here we seen an NTAG216. This is the particlar type of NTAG chip we use in our i
 
 DESFires are expensive secure chips that can run "applications." As such, they have large memory capacities. The most common use our customers have for them is storing photos along with their contact information as an NDEF record. However, if someone is bringing you this, they're most likely interested in using it with a work access control system. DESFire is not clone-able. But, if their access control system's administrators are willing, we do have implants that can be enrolled.
 
+[Found one?](../chips/HIGH_FREQUENCY_CHIPS.md)
+
 ---
 
 ### Proxmark
