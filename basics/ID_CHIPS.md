@@ -1,4 +1,4 @@
-# Identifying Chips with a Proxmark 3 Easy
+# Identifying Chips
 
 This document is meant to be used in conjunction with [this video]().
 
