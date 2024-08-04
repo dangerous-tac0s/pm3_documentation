@@ -1,7 +1,7 @@
 # Flex Formats
 
 | Format       | Durability   | Range         | Directionality of Presentation | Installation |
-| :----------: | :----------: | :----------:: | :----------------------------: | :----------: |
+| :----------: | :----------: | :-----------: | :----------------------------: | :----------: |
 | Disc         | Mid-to-High  | Long          | Omni                           | Scalpel      |
 | Narrow       | Lowest       | Medium-to-Low | Perpendicular                  | 4g Needle    |
 | Wide         | Highest      | Long          | Omni                           | Scalpel      |
