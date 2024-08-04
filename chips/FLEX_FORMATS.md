@@ -1,10 +1,10 @@
 # Flex Formats
 
-| Format       | Durability   | Range        | Directionality of Presentation | Installation |
-| :----------: | :----------: | :----------: | :----------------------------: | :----------: |
-| Disc         | Mid-to-High  | Long         | Omni                           | Scalpel      |
-| Narrow       | Lowest       | Medium       | Perpendicular                  | 4g Needle    |
-| Wide         | Highest      | Long         | Omni                           | Scalpel      |
+| Format       | Durability   | Range         | Directionality of Presentation | Installation |
+| :----------: | :----------: | :----------:: | :----------------------------: | :----------: |
+| Disc         | Mid-to-High  | Long          | Omni                           | Scalpel      |
+| Narrow       | Lowest       | Medium-to-Low | Perpendicular                  | 4g Needle    |
+| Wide         | Highest      | Long          | Omni                           | Scalpel      |
 
 #### Durability and Placement
 The name "flex" is to differentiate them from their rigid x-series counterparts. Placement of these devices in an area where the body is subject flexion should be avoided--especially with narrow flex devices. Placement of these devices over bone is fine--unlike with an x-series.
