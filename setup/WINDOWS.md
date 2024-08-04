@@ -21,7 +21,7 @@ This guide was created using Windows 11 but should work with any 64-bit version 
   		Extract the ProxSpace.7z file to: [^1c_details]
 		* **If there's only one user account on the computer**:  your home directory (eg: c:\users\johnsmith).
 		* **if there are many accounts on the computer:** c:\ (this will make it available to all users).
-			* **Suggested:** You can create a shortcuts to your home directory:
+			* **Suggested:** You can create a shortcuts to your home directory.
 				```cmd
 				mklink /D ProxSpace c:\ProxSpace
 				```
