@@ -1,5 +1,4 @@
-High Frequency aka 13.56 Mhz aka NFC
----
+# High Frequency aka 13.56 Mhz aka NFC
 
 ```mermaid
   flowchart LR;
