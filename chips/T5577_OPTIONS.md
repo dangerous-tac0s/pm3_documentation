@@ -34,5 +34,5 @@ T5577 Implant Options
 
 ---
 ### Back to:
-- [Low Frequency Chips](LOW_FREQUENCY_CHIPS.md)**
+- [Low Frequency Chips](LOW_FREQUENCY_CHIPS.md)
 - [Home](../README.md)
