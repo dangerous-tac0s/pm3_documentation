@@ -21,8 +21,9 @@ MIFARE Classic 1k 4-byte UID Implant Options
       click C1.1b "https://dngr.us/flexug4" _self
       C1.1a -- version --> C1.1a_1[gen1a] & C1.1a_2[gen2]
       C1.1b -- version --> C1.1b_1[gen4]
-      C2 --> C2.1{flexM1 v2};
-      C2.1 -- type --> C2.1a[gen1a + gen2];
+      C2 --> C2.1[Magic MIFARE Only]
+      C2.1 --> C2.1a{flexM1 v2};
+      C2.1a -- type --> C2.1a_1[gen1a + gen2];
 
       subgraph " "
       C1.1b_1 .-> UG4a[NTAG2XX] & UG4b[MIFARE Classic 1k/4k] & UG4c[MIFARE Mini] & UG4d[MIFARE Ultralight]
