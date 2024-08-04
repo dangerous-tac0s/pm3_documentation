@@ -41,7 +41,7 @@ MIFARE Classic 1k 4-byte UID Implant Options
 - [xM1](https://dngr.us/xm1)
 - [xMagic](https://dngr.us/xmagic)
 - [flexM1](https://dngr.us/flexm1)
-- flexM1 v2 - ***Coming soon!***
+- flexM1 v2 - ***Coming soon™!***
 - [flexUG4](https://dngr.us/flexug4)
 
 ---
