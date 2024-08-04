@@ -5,7 +5,7 @@ The goal of this repository is to help people learn the ins and outs of Dangerou
 #### Setup
 - [Windows](setup/WINDOWS.md)
 - [Mac](setup/MAC.md)
-- 
+  
 #### Learning the Proxmark
 - [Basic Usage](basics/PROXMARK_BASICS.md)
 - [Proxmark](basics/UPDATE_PROXMARK.md)
