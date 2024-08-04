@@ -27,7 +27,7 @@ NTAG Implant Options
       C2.1a -- type --> C2.1a_1[gen4];
 
       subgraph " "
-      C2.1a_1 --> UG4a[NTAG2XX] & UG4b[MIFARE Classic 1k/4k] & UG4c[MIFARE Mini] & UG4d[MIFARE Ultralight]
+      C2.1a_1 .-> UG4a[NTAG2XX] & UG4b[MIFARE Classic 1k/4k] & UG4c[MIFARE Mini] & UG4d[MIFARE Ultralight]
       end
 ```
 
