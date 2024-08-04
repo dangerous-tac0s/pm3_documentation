@@ -47,7 +47,7 @@ DESFires are expensive secure chips that can run "applications." As such, they h
 
 #### High Frequency
 
-### Next:
+### Chip Maps:
 - [High Frequency](../chips/HIGH_FREQUENCY_CHIPS.md)
 - [Low Frequency](../chips/LOW_FREQUENCY_CHIPS.md)
 
