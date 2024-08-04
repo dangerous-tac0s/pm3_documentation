@@ -18,6 +18,9 @@ For our purposes, there are two [^overview] main categories of contactless trans
 ### Smartphone
 A smartphone will quickly tell us whether we're dealing with a high or low frequency transponder quicker than a Proxmark the vast majority of the time. The level of detail it delivers, however, will be less. Even still, it tends to tell us enough about an NFC chip to determine our options.
 
+> [!NOTE]
+> You may need to remove your phone's case to scan a transponder.
+
 You'll need NXP's TagInfo:
 - [Android](https://play.google.com/store/apps/details?id=com.nxp.taginfolite&pcampaignid=web_share)
 - [iPhone](https://apps.apple.com/us/app/nfc-taginfo-by-nxp/)
