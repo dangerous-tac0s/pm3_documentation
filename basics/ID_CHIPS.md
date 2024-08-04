@@ -4,7 +4,7 @@ This document is meant to be used in conjunction with [this video]().
 
 When someone has an existing card/badge/FOB/etc that they want an implant to replace, we need to find out what specific chip it is before we can determine if:
 1. We have a compatible implant or, if not, can it be [converted to an implant](https://dngr.us/conversion)
-2. Whether their transponder can be cloned or the relevant implant will have to be enrolled in the system
+2. Whether their transponder can be cloned [^clone] or the relevant implant will have to be enrolled in the system
 
 For our purposes, there are two [^overview] main categories of contactless transponders:
 - High frequency aka 13.56 MHz aka NFC [^nfc]
@@ -66,6 +66,7 @@ DESFires are expensive secure chips that can run "applications." As such, they h
 ### Back to:
 - [Home](../README.md)
 
+[^clone]: Cloning can mean a lot of things depending on the chip but the minimum requirement is that the tag we're trying to clone to has the ability to change its UID. MIFARE Classic tags, among others, also have the ability to write data to "locked" sectors for increased security. These must also be duplicated which necessitates cracking the locked sectors.
 [^overview]: Technically, there is another: UHF. This operates in the 800-900 MHz range but doesn't place nice with water--which the human body is mostly made of.
 [^nfc]: There are so many ways to categorize this. Technically, MIFARE existed before NFC was formalized. It's compliant with some ISO 14443 standards but isn't [NFC Forum](https://nfc-forum.org/) compliant. The Forum is technically the body that formalized NFC.
 [^pet]: Pet chips operate at 134 kHz--still low frequency but it is a more niche technology. Our [xBT](https://dngr.us/xbt) is one of these.
