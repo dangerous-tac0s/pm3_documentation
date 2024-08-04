@@ -22,3 +22,6 @@ High Frequency aka 13.56 Mhz aka NFC
 - [Other Listed MIFARE](https://dngr.us/flexug4)
 - [NTAG](NTAG_OPTIONS.md)
 - [ICODE SLIX](https://dngr.us/xslx)
+
+---
+### [Back to Identifying Chips](PROXMARK_ID.md)
