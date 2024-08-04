@@ -15,6 +15,8 @@ For our purposes, there are two [^overview] main categories of contactless trans
 - [Using a Proxmark](ID_CHIPS.md#proxmark)
 - [Chip Maps](ID_CHIPS.md#next)
 
+---
+
 ### Smartphone
 A smartphone will quickly tell us whether we're dealing with a high or low frequency transponder quicker than a Proxmark the vast majority of the time. The level of detail it delivers, however, will be less. Even still, it tends to tell us enough about an NFC chip to determine our options.
 
@@ -44,11 +46,15 @@ Here we seen an NTAG216. This is the particlar type of NTAG chip we use in our i
 
 DESFires are expensive secure chips that can run "applications." As such, they have large memory capacities. The most common use our customers have for them is storing photos along with their contact information as an NDEF record. However, if someone is bringing you this, they're most likely interested in using it with a work access control system. DESFire is not clone-able. But, if their access control system's administrators are willing, we do have implants that can be enrolled.
 
+---
+
 ### Proxmark
 
 #### Low Frequency
 
 #### High Frequency
+
+---
 
 ### Chip Maps:
 - [High Frequency](../chips/HIGH_FREQUENCY_CHIPS.md)
