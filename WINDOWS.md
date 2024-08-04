@@ -100,14 +100,14 @@ Want to get familiar with using the Proxmark? [Click here](PROXMARK_BASICS.md).
 
 ### Details
 
-[^1a_details]: 1a: Windows can't uncompress 7z archives. WinRAR can.
-[^1b_details]: 1b: This link is pointed to the latest version of ProxSpace. If you're interested in learning more about ProxSpace, you can check [it's repository on GitHub](https://github.com/Gator96100/ProxSpace).
-[^1c_details]: 1c: When you open the command prompt, it will start you in your home directory. If you extract ProxSpace there or link to it, it'll make your life easier because you won't have to change directories or reference a long path to use your Proxmark. 
+[^1a_details]: Windows can't uncompress 7z archives. WinRAR can.
+[^1b_details]: This link is pointed to the latest version of ProxSpace. If you're interested in learning more about ProxSpace, you can check [it's repository on GitHub](https://github.com/Gator96100/ProxSpace).
+[^1c_details]: When you open the command prompt, it will start you in your home directory. If you extract ProxSpace there or link to it, it'll make your life easier because you won't have to change directories or reference a long path to use your Proxmark. 
 
-[^2a_details]: 2a: This will take a while. It will also be how you start ProxSpace to use your Proxmark after you've completed the setup.
-[^2b_details]: 2b: TODO
-[^2c_details]: 2c: TODO
-[^2d_details]: 2d: TODO
-[^2f_details]: 2f: TODO
-[^2g_details]: 2g: TODO
-[^2_optional_details]: 2 Optional: TODO
+[^2a_details]: This will take a while. It will also be how you start ProxSpace to use your Proxmark after you've completed the setup.
+[^2b_details]: TODO
+[^2c_details]: TODO
+[^2d_details]: TODO
+[^2f_details]: TODO
+[^2g_details]: TODO
+[^2_optional_details]: TODO
