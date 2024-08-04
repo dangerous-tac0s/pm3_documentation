@@ -1,6 +1,4 @@
----
-DESFire Implant Options
----
+# DESFire Implant Options
 
 ```mermaid
   flowchart TD;
