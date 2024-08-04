@@ -5,7 +5,7 @@ Have a suggestion? Contact [me](mailto:operations@dangerousthings.com) or open a
 
 
 > [!NOTE]
-> Lost, stuck, or just generally not figuring it out? Head over to the [forum](dngr.us/forum). Search the [support section](https://forum.dangerousthings.com/search?q=%23support%20)--someone likely encountered the same issue. If you don't find a solution, create a post in the support section. Reference or link to the step you're stuck on and let us know what operating system and version you're running. Screenshots and photos make helping you out easier.
+> Lost, stuck, or just generally not figuring it out? Head over to the [forum](https://dngr.us/forum). Search the [support section](https://forum.dangerousthings.com/search?q=%23support%20)--someone likely encountered the same issue. If you don't find a solution, create a post in the support section. Reference or link to the step you're stuck on and let us know what operating system and version you're running. Screenshots and photos make helping you out easier.
 
 
 ### Overview
