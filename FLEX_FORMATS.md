@@ -1,10 +1,10 @@
 # Flex Formats
 
-| Format       | Durability   | Range        | Directionality | Installation |
-| :----------: | :----------: | :----------: | :------------: | :----------: |
-| Disc         | Mid          | Long         | Omni           | Scalpel      |
-| Narrow       | Lowest       | Medium       | Perpendicular  | 4g Needle    |
-| Wide         | Highest      | Long         | Perpendicular  | Scalpel      |
+| Format       | Durability   | Range        | Directionality of Presentation | Installation |
+| :----------: | :----------: | :----------: | :----------------------------: | :----------: |
+| Disc         | Mid          | Long         | Omni                           | Scalpel      |
+| Narrow       | Lowest       | Medium       | Perpendicular                  | 4g Needle    |
+| Wide         | Highest      | Long         | Omni                           | Scalpel      |
 
 ---
 ### Back to:
