@@ -17,7 +17,7 @@ DESFire Implant Options
 - [DESFire Information](DESFIRE_INFORMATION.md)
 
 ### Product Links
-- xDF3 - ***Coming Soon!***
+- xDF3 - ***Coming Soon™!***
 - [flexDF2](https://dngr.us/flexdf2)
 
 ---
