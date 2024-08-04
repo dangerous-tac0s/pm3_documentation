@@ -1,5 +1,9 @@
 # Low Frequency aka 125 kHz aka RFID
 
+This details the relevant chips that we currently have implants for.
+
+---
+
 ```mermaid
   flowchart LR;
       B1[t5577];
