@@ -1,6 +1,8 @@
 # Dangerous Introductions
 The goal of this repository is to help people learn the ins and outs of Dangerous Things offerings.
 
+Have a suggestion? See a mistake? Contact [me](mailto:operations@dangerousthings.com) or open a PR.
+
 ### Proxmark
 #### Setup
 - [Windows](setup/WINDOWS.md)
