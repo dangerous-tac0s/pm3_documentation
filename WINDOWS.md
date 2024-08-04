@@ -106,8 +106,8 @@ Want to get familiar with using the Proxmark? [Click here](PROXMARK_BASICS.md).
 
 [^2a_details]: This will take a while. It will also be how you start ProxSpace to use your Proxmark after you've completed the setup.
 [^2b_details]: TODO
-[^2c_details]: TODO
-[^2d_details]: TODO
-[^2f_details]: TODO
+[^2c_details]: This puts us in the "ProxSpace" directory and selects the appropriate "make" file for building the Proxmark software the opens Notepad so we can make a change.
+[^2d_details]: The "#" symbol is used to signify "comments." These are statements that are ignored--typically used for human readable notes but also for configuration changes like we are doing here. The default setting is to build software for the [Proxmark 3 RDV4](https://proxmark.com/proxmark-3-hardware/proxmark-3-rdv4) which is a much more expensive but higher performing device.
+[^2f_details]: This compiles the software to the specifications we've specified.
 [^2g_details]: TODO
-[^2_optional_details]: TODO
+[^2_optional_details]: This adds "proxmark3/pm3" to the end of the .bashrc file. This controls the settings of ProxSpace's command prompt. There is one hitch with doing this: updating becomes slightly tricky. You'll need to quit Proxmark twice to enter ProxSpace where you can update the Proxmark software. 
