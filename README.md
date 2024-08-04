@@ -11,5 +11,5 @@
 
 ### Learning the Proxmark
 - [Basic Usage](PROXMARK_BASICS.md)
-- [Identifying Transponders](PROXMARK_ID_TRANSPONDER.md)
-- [Cloning Transponders](PROXMARK_CLONING.md)
+- [Identifying Chips](PROXMARK_ID.md)
+- [Cloning Chips](PROXMARK_CLONING.md)
