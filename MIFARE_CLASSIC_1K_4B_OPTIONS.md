@@ -19,6 +19,10 @@ MIFARE Classic 1k 4-byte UID Implant Options
       C1.1b -- version --> C1.1b_1[gen4]
       C2 --> C2.1{flexM1 v2};
       C2.1 -- type --> C2.1a[gen1a + gen2];
+
+      subgraph " "
+      C1.1b_1 --> UG4a[NTAG2XX] & UG4b[MIFARE Classic 1k/4k] & UG4c[MIFARE Mini] & UG4d[MIFARE Ultralight]
+      end
 ```
 
 #### Further Reading
