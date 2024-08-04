@@ -98,7 +98,7 @@ Want to get familiar with using the Proxmark? [Click here](../basics/PROXMARK_BA
 
 ---
 
-### Details
+### [Back to Home](../README.md)
 
 [^1a_details]: Windows can't uncompress 7z archives. WinRAR can.
 [^1b_details]: This link is pointed to the latest version of ProxSpace. If you're interested in learning more about ProxSpace, you can check [it's repository on GitHub](https://github.com/Gator96100/ProxSpace).
