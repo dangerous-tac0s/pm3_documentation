@@ -14,7 +14,7 @@
 
 #### NDEF/Data Sharing
 
-*I2C NDEF Capactiy: It's actually longer but there are no readily available applications that can use the rest of the available memory.
+*I2C NDEF Capactiy: It's actually larger but there are no readily available applications that can use the rest of the available memory.
 
 #### Cloning Notes
 These can only be cloned to a flexUG4.
