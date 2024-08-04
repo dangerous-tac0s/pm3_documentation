@@ -15,3 +15,6 @@ Low Frequency aka 125 kHz aka RFID
 ### Choosing an Implant:
 - [t5577](T5577_OPTIONS.md)
 - [Hitag 2048](https://dngr.us/xht)
+
+---
+### [Back to Identifying Chips](PROXMARK_ID.md)
