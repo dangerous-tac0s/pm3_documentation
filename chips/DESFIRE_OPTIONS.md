@@ -12,6 +12,8 @@ DESFire Implant Options
 
 ```
 
+----
+
 ### Further Reading
 - [Flex Formats](FLEX_FORMATS.md)
 - [DESFire Information](DESFIRE_INFORMATION.md)
