@@ -7,7 +7,7 @@
 | Wide         | Highest      | Long         | Omni                           | Scalpel      |
 
 #### Durability and Placement
-The name "flex" is to differentiate them from their rigid, x-series counterparts. Placement of these devices in an area where the body is subject flexion should be avoided--especially with narrow flex devices. Placement of these devices over bone is fine--unlike with an x-series.
+The name "flex" is to differentiate them from their rigid x-series counterparts. Placement of these devices in an area where the body is subject flexion should be avoided--especially with narrow flex devices. Placement of these devices over bone is fine--unlike with an x-series.
 
 ---
 ### Back to:
