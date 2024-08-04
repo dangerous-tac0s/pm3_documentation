@@ -27,10 +27,10 @@ MIFARE Classic 1k 4-byte UID Implant Options
 
       subgraph " "
       C1.1b_1 .-> UG4a[NTAG2XX] & UG4b[MIFARE Classic 1k/4k] & UG4c[MIFARE Mini] & UG4d[MIFARE Ultralight]
-      end
-
-      
+      end      
 ```
+
+---
 
 #### Further Reading
 - [Flex Formats](FLEX_FORMATS.md)
