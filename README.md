@@ -6,14 +6,14 @@ Have a suggestion? See a mistake? Contact [me](mailto:operations@dangerousthings
 ### Proxmark
 #### Setup
 - [Windows](setup/WINDOWS.md)
-- [Mac](setup/MAC.md) ***Coming Soon™!***
+- [Mac](setup/MAC.md) - ***Coming Soon™!***
   
 #### Learning the Proxmark
 - [Basic Usage](basics/PROXMARK_BASICS.md)
-- [Updating](basics/UPDATE_PROXMARK.md) ***Coming Soon™!***
+- [Updating](basics/UPDATE_PROXMARK.md) - ***Coming Soon™!***
 
 ### More
 - [Identifying Chips and Choosing an Implant](basics/ID_CHIPS.md)
-- [Cloning Chips](basics/PROXMARK_CLONING.md) ***Coming Soon™!***
+- [Cloning Chips](basics/PROXMARK_CLONING.md) - ***Coming Soon™!***
 - Choosing a chip implant by feature - ***Coming Soon™!***
 - Subdermal Magnets - ***Coming Soon™!***
