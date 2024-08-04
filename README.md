@@ -8,7 +8,7 @@ The goal of this repository is to help people learn the ins and outs of Dangerou
   
 #### Learning the Proxmark
 - [Basic Usage](basics/PROXMARK_BASICS.md)
-- [Proxmark](basics/UPDATE_PROXMARK.md)
+- [Updating](basics/UPDATE_PROXMARK.md)
 
 ### More
 - [Identifying Chips and Choosing an Implant](basics/ID_CHIPS.md)
