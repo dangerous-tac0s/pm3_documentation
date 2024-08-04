@@ -7,18 +7,23 @@ NTAG Implant Options
       A[Form Factor]--> B[X-Series] & C[Flex];
       B --> B1[NTAG Only] & B2[NTAG + Blink] & B3[NTAG + t5577];
       B1 --> B1.1{xNT};
+      click B1.1 "https://dngr.us/xnt" _self
       B1.1 -- type --> B1.1a[216];
       B2 --> B2.1{xSIID};
+      click B2.1 "https://dngr.us/xsiid" _self
       B2.1 -- type --> B2.1a[I2C];
       B3 --> B3.1{NExT};
+      click B3.1 "https://dngr.us/next" _self
       B3.1 -- type --> B3.1a[216];
 
       C -- format --> C1[Wide] & C2[Narrow];
       C1 --> C1.1[NTAG Only];
       C1.1 --> C1.1a{flexNT};
+      click C1.1a "https://dngr.us/flexnt" _self
       C1.1a -- type --> C1.1a_1[216];
       C2 --> C2.1[Magic*];
       C2.1 --> C2.1a{flexUG4};
+      click C2.1a "https://dngr.us/flexug4" _self
       C2.1a -- type --> C2.1a_1[gen4];
 
       subgraph " "
