@@ -1,5 +1,5 @@
 # Dangerous Introductions
-The goal of this repository is to help learn the ins and outs of Dangerous Things offerings.
+The goal of this repository is to help people learn the ins and outs of Dangerous Things offerings.
 
 ### Proxmark
 #### Setup
