@@ -9,8 +9,9 @@ Have a suggestion? Contact [me](mailto:operations@dangerousthings.com) or open a
 
 
 ### Overview
-1. Setup ProxSpace. 
-2. Build and install the Proxmark software.
+1. Setup ProxSpace.
+   - We need a special environment to build, install, and run the Proxmark software.
+3. Build and install the Proxmark software.
 
 ### Steps
 1. #### ProxSpace
@@ -23,13 +24,13 @@ Have a suggestion? Contact [me](mailto:operations@dangerousthings.com) or open a
   		Extract the ProxSpace.7z file to: [^1c_details]
 		* **If there's only one user account on the computer**:  your home directory (eg: c:\users\johnsmith).
 		* **if there are many accounts on the computer:** c:\ (this will make it available to all users).
-			* **Suggested:** You can create a shortcuts to your home directory: [^1_suggested_details]
+			* **Suggested:** You can create a shortcuts to your home directory:
 				```cmd
 				mklink /D ProxSpace c:\ProxSpace
 				```
-				This will allow easy access to the ProxSpace directory. It should be done for every user account that needs access to the Proxmark. Not necessary if you installed to your home directory.
+				It should be done for every user account that needs access to the Proxmark. Not necessary if you installed to your home directory.
 	* ##### 1d.
-  		Press the windows key + r and type "cmd" in the "Open" field of the "Run" dialog and hit the "OK" button or the enter key. [^1d_details]
+  		Press the windows key + r and type "cmd" in the "Open" field of the "Run" dialog and hit the "OK" button or the enter key to open the command prompt.
 
 
 > [!IMPORTANT]
@@ -99,13 +100,11 @@ Want to get familiar with using the Proxmark? [Click here](PROXMARK_BASICS.md).
 
 ### Details
 
-[^1a_details]: 1a: TODO
-[^1b_details]: 1b: TODO
-[^1c_details]: 1c: TODO
-[^1_suggested_details]: 1 Suggested: TODO
-[^1d_details]: 1d: TODO
+[^1a_details]: 1a: Windows can't uncompress 7z archives. WinRAR can.
+[^1b_details]: 1b: This link is pointed to the latest version of ProxSpace. 
+[^1c_details]: 1c: When you open the command prompt, it will start you in your home directory. If you extract ProxSpace there or link to it, it'll make your life easier because you won't have to change directories or reference a long path to use your Proxmark. 
 
-[^2a_details]: 2a: TODO
+[^2a_details]: 2a: This will take a while. It will also be how you start ProxSpace to use your Proxmark after you've completed the setup.
 [^2b_details]: 2b: TODO
 [^2c_details]: 2c: TODO
 [^2d_details]: 2d: TODO
