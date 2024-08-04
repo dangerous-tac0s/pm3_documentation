@@ -38,8 +38,9 @@ You'll need NXP's TagInfo:
 
 The "IC Info" tab will load first. The "IC Type" field will tell us what kind of chip it is. With a MIFARE Classic, you'll want to do a "Full Scan" to check the "ID" field. The each byte [^byte] is separated by a colon so we can see it has a 4-byte UID [^uid].
 
-[Found a MIFARE Classic with a 4-byte UID?](../chips/MIFARE_CLASSIC_1K_4B.md)
-[Found a different MIFARE chip?](../chips/HIGH_FREQUENCY_CHIPS.md)
+[Found an MIFARE Classic with a 4-byte UID?](../chips/MIFARE_CLASSIC_1K_4B.md)
+
+[Found an different MIFARE chip?](../chips/HIGH_FREQUENCY_CHIPS.md)
 
 <img alt="NTAG216 example" src="images/taginfo/ntag216.png" width="75%"/>
 
