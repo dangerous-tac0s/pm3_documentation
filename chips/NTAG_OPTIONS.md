@@ -1,4 +1,3 @@
----
 NTAG Implant Options
 ---
 
