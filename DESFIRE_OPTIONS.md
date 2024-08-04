@@ -8,6 +8,7 @@ DESFire Implant Options
       B --> B1[xDF3];
       C -- format --> C1[Narrow];
       C1 --> C1.1[flexDF2];
+      click C1.1 "https://dngr.us/flexdf2" _self
 
 ```
 
