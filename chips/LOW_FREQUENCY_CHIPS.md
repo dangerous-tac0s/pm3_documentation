@@ -1,5 +1,4 @@
-Low Frequency aka 125 kHz aka RFID
----
+# Low Frequency aka 125 kHz aka RFID
 
 ```mermaid
   flowchart LR;
