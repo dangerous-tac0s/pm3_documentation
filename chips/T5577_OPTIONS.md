@@ -18,6 +18,8 @@ T5577 Implant Options
       C1.1 --> C1.1a{flexEM}
 ```
 
+---
+
 #### Further Reading
 - [Flex Formats](FLEX_FORMATS.md)
 - [NTAG Information](NTAG.md)
