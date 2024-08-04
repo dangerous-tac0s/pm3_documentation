@@ -20,6 +20,10 @@ NTAG Implant Options
       C2 --> C2.1[Magic*];
       C2.1 --> C2.1a{flexUG4};
       C2.1a -- type --> C2.1a_1[gen4];
+
+      subgraph " "
+      C2.1a_1 --> UG4a[NTAG2XX] & UG4b[MIFARE Classic 1k/4k] & UG4c[MIFARE Mini] & UG4d[MIFARE Ultralight]
+      end
 ```
 
 \* So called "magic" chips can change their UIDs. Some, like in this case, can also emulate other chips such as the NTAG varieties.
