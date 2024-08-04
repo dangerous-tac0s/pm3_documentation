@@ -36,7 +36,7 @@ The "IC Info" tab will load first. The "IC Type" field will tell us what kind of
 
 Here we seen an NTAG216. This is the particlar type of NTAG chip we use in our implants but NTAGs come in other varieties such as 210, 212, 215 etc. The shorthand NTAG 21X is common. The big difference between the 21X chips is their storage capacity. We use 216s because they have the largest capacity.
 
-<img alt="DESFire EV3 example" src="images/taginfo/desfire.png" width="75%"/>
+<img alt="DESFire EV3 example" src="images/taginfo/desfire.jpg" width="75%"/>
 
 DESFires are expensive secure chips that can run "applications." As such, they have large memory capacities. The most common use our customers have for them is storing photos along with their contact information as an NDEF record. However, if someone is bringing you this, they're most likely interested in using it with a work access control system. DESFire is not clone-able. But, if their access control system's administrators are willing, we do have implants that can be enrolled.
 
