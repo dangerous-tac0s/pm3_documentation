@@ -1,4 +1,3 @@
----
 Low Frequency aka 125 kHz aka RFID
 ---
 
