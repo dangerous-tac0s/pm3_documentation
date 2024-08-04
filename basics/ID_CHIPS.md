@@ -19,6 +19,17 @@ You'll need NXP's TagInfo:
 - [Android](https://play.google.com/store/apps/details?id=com.nxp.taginfolite&pcampaignid=web_share)
 - [iPhone](https://apps.apple.com/us/app/nfc-taginfo-by-nxp/)
 
+#### Using TagInfo
+- Open the app
+- Scan the tag
+  - Android phones tend to have a reader along the back. Slowly slide the transponder along the back until it registers then hold it in place.
+  - iPhones have their reader along the top.
+- If it didn't register, fire up the Proxmark.
+- Here are some example scans that show what we're interested in:
+
+### Proxmark
+
+
 ### Next:
 - [High Frequency](../chips/HIGH_FREQUENCY_CHIPS.md)
 - [Low Frequency](../chips/LOW_FREQUENCY_CHIPS.md)
