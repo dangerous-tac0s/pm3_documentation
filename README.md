@@ -13,7 +13,7 @@ Have a suggestion? See a mistake? Contact [me](mailto:operations@dangerousthings
 - [Updating](basics/UPDATE_PROXMARK.md) - ***Coming Soon™!***
 
 ### More
-- [Identifying Chips and Choosing an Implant](basics/ID_CHIPS.md)
+- [Identifying a Chip to Choose an Implant](basics/ID_CHIPS.md)
 - [Cloning Chips](basics/PROXMARK_CLONING.md) - ***Coming Soon™!***
 - Choosing a chip implant by feature - ***Coming Soon™!***
 - Subdermal Magnets - ***Coming Soon™!***
