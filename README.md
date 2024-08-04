@@ -11,5 +11,5 @@
 
 ### Learning the Proxmark
 - [Basic Usage](PROXMARK_BASICS.md)
-- [Identifying Chips](PROXMARK_ID.md)
+- [Identifying Chips and Choosing an Implant](PROXMARK_ID.md)
 - [Cloning Chips](PROXMARK_CLONING.md)
