@@ -89,7 +89,9 @@ You've finished setting up your Proxmark. If you did the last optional step, you
 
 <img src="../setup/images/proxmark_prompt.png" alt="isolated" width="750"/>
 
-if you see this:
+Which means you're ready to use your Proxmark.
+
+If you see this:
 
 <img src="../setup/images/proxspace_prompt.png" alt="isolated" width="750"/>
 
@@ -97,6 +99,8 @@ Enter this to connect to the Proxmark:
 ```bash
 proxmark3/pm3
 ```
+
+Which you'll need to do to use your Proxmark after entering Proxspace. If you want to avoid this step, [do this](WINDOWS.md#2-optional).
 
 Want to get familiar with using the Proxmark? [Click here](../basics/PROXMARK_BASICS.md).
 
