@@ -87,13 +87,16 @@ This guide was created using Windows 11 but should work with any 64-bit version 
 ## Congratulations!
 You've finished setting up your Proxmark. If you did the last optional step, you should see this prompt:
 
-<img src="../setup/images/proxmark_prompt.png" alt="isolated" width="200"/>
+<img src="../setup/images/proxmark_prompt.png" alt="isolated" width="750"/>
 
 if you see this:
 
-TODO: add image
+<img src="../setup/images/proxspace_prompt.png" alt="isolated" width="750"/>
 
-Enter "pm3" to connect to the Proxmark.
+Enter this to connect to the Proxmark:
+```bash
+proxmark3/pm3
+```
 
 Want to get familiar with using the Proxmark? [Click here](../basics/PROXMARK_BASICS.md).
 
