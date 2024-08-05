@@ -54,7 +54,7 @@ This guide was created using Windows 11 but should work with any 64-bit version 
   		In the notepad window that opens, make the following changes: [^2d_details]
 		- PLATFORM=PM3RDV4 to #PLATFORM=PM3RDV4
 		- #PLATFORM=PM3GENERIC to PLATFORM=PM3GENERIC
-	* 2e.
+	* ##### 2e.
 
    		Save the file and close Notepad.
 	* ##### 2f.
@@ -62,9 +62,13 @@ This guide was created using Windows 11 but should work with any 64-bit version 
 		```bash
 		make clean && make -j8 all
 		```
-	* ##### 2g.
+  	* ##### 2g.
+
+     	Plugin the Proxmark.
+
+	* ##### 2h.
  
-  		Enter the following commands with your ProxMark connected to the computer: [^2g_details]
+  		Enter the following commands with your ProxMark connected to the computer: [^2h_details]
 		```bash
 		./pm3-flash-bootrom
 		```
@@ -106,5 +110,5 @@ Want to get familiar with using the Proxmark? [Click here](../basics/PROXMARK_BA
 [^2c_details]: This puts us in the correct directory and selects the appropriate "make" file for building the Proxmark software the opens Notepad so we can make a change.
 [^2d_details]: The "#" symbol is used to signify "comments." These are statements that are ignored--typically used for human readable notes but also for configuration changes like we are doing here. The default setting is to build software for the [Proxmark 3 RDV4](https://proxmark.com/proxmark-3-hardware/proxmark-3-rdv4) which is a much more expensive but higher performing device.
 [^2f_details]: This compiles the software to the specifications we've specified.
-[^2g_details]: TODO
+[^2h_details]: TODO
 [^2_optional_details]: This adds "proxmark3/pm3" to the end of the .bashrc file. This controls some of Bash's behaviour. There is one hitch with doing this: updating becomes slightly tricky. You'll need to quit Proxmark twice to enter ProxSpace where you can update the Proxmark software. 
