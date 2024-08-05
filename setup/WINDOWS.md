@@ -118,4 +118,4 @@ Want to get familiar with using the Proxmark? [Click here](../basics/PROXMARK_BA
 [^2d_details]: The "#" symbol is used to signify "comments." These are statements that are ignored--typically used for human readable notes but also for configuration changes like we are doing here. The default setting is to build software for the [Proxmark 3 RDV4](https://proxmark.com/proxmark-3-hardware/proxmark-3-rdv4) which is a much more expensive but higher performing device.
 [^2f_details]: This compiles the software to the specifications we've specified.
 [^2h_details]: TODO
-[^2_optional_details]: This adds "proxmark3/pm3" to the end of the .bashrc file. This controls some of Bash's behaviour. There is one hitch with doing this: updating becomes slightly tricky. You'll need to quit Proxmark twice to enter ProxSpace where you can update the Proxmark software. 
+[^2_optional_details]: This adds "proxmark3/pm3" to the end of the .bashrc file. That file controls some of Bash's behaviour. 
