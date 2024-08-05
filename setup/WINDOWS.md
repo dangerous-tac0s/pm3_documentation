@@ -87,7 +87,7 @@ This guide was created using Windows 11 but should work with any 64-bit version 
 ## Congratulations!
 You've finished setting up your Proxmark. If you did the last optional step, you should see this prompt:
 
-TODO: add image
+<img src="../setup/images/proxmark_prompt.png" alt="isolated" width="200"/>
 
 if you see this:
 
