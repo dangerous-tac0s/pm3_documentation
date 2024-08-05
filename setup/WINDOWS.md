@@ -14,7 +14,7 @@ This guide was created using Windows 11 but should work with any 64-bit version 
 1. #### ProxSpace
    
 	* ##### 1a. 
-  		Download and install [WinRar](https://www.win-rar.com/download.html?&L=0) [^1a_details]
+  		Download and install <a href="https://www.win-rar.com/download.html?&L=0" target="_blank">WinRAR</a> [^1a_details]
 	* ##### 1b.
   		Download [ProxSpace](https://github.com/Gator96100/ProxSpace/releases/latest/download/ProxSpace.7z) [^1b_details]
 	* ##### 1c.
