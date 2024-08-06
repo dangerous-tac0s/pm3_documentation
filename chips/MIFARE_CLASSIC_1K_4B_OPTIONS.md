@@ -21,8 +21,8 @@
       C1.1b -- version --> C1.1b_1[gen4]
       C2 --> C2.1[Magic MIFARE Only]
       C2.1 --> C2.1a{flexM1 v2};
-      C2.1a -- type --> C2.1a_1[gen1a + gen2];
-
+      click C2.1a "https://dngr.us/flexM1-v2" _self
+      C2.1a -- version --> C2.1a_1[ZUID];
       subgraph " "
       C1.1b_1 .-> UG4a[NTAG2XX] & UG4b[MIFARE Classic 1k/4k] & UG4c[MIFARE Mini] & UG4d[MIFARE Ultralight]
       end      
@@ -39,7 +39,7 @@
 - [xM1](https://dngr.us/xm1)
 - [xMagic](https://dngr.us/xmagic)
 - [flexM1](https://dngr.us/flexm1)
-- flexM1 v2 - ***Coming soon™!***
+- [flexM1 v2](https://dngr.us/flexm1-v2)
 - [flexUG4](https://dngr.us/flexug4)
 
 ---
