@@ -6,7 +6,7 @@ Have a suggestion? See a mistake? Contact [me](mailto:operations@dangerousthings
 ### Proxmark
 #### Setup
 - [Windows](setup/WINDOWS.md)
-- [Mac](setup/MAC.md) - ***Coming Soon™!***
+- [Mac](setup/MAC.md)
   
 #### Learning the Proxmark
 - [Basic Usage](basics/PROXMARK_BASICS.md) - ***Coming Soon™!***
