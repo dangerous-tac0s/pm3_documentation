@@ -24,7 +24,7 @@ This guide was created using Mac OS X Big Sur. It is intended to be alongside <a
       Use the following command to install the necessary packages:
       
       ```bash
-       brew Install Git && brew install readline qt5 gd pkgconfig coreutils && brew install recode && brew install astyle
+       brew install git && brew install readline qt5 gd pkgconfig coreutils && brew install recode && brew install astyle
       ```
 
 2. #### Proxmark
