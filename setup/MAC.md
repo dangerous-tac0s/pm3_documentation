@@ -13,13 +13,16 @@ This guide was created using Mac OS X Big Sur. It is intended to be alongside <a
 ### Steps
 1. #### Development Environment
    * ##### 1a.
+     Download and Install [XCode](https://apps.apple.com/us/app/xcode/id497799835?mt=12) [^xcode]
+     
+   * ##### 1b.
      
      Download and Install [Homebrew](https://brew.sh/) [^homebrew]
      
      ```bash
       /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
      ```
-    * ##### 1b.
+    * ##### 1c.
       
       Use the following command to install the necessary packages:
       
@@ -27,7 +30,7 @@ This guide was created using Mac OS X Big Sur. It is intended to be alongside <a
        brew install git && brew install readline qt5 gd pkgconfig coreutils && brew install recode && brew install astyle
       ```
 
-2. #### Proxmark
+3. #### Proxmark
    * ##### 2a.
      
      Download the latest version of the Iceman fork of the Proxmark 3 software: [^git]
@@ -74,7 +77,8 @@ This guide was created using Mac OS X Big Sur. It is intended to be alongside <a
 ```bash
   ./pm3-flash-fullimage
 ```
-       
+
+[^xcode]: If you have an older mac, you will need to create a developer account to get access to older versions of XCode that your machine supports.
 [^homebrew]: Homebrew is a tool for downloading and installing software packages. If you want to know more about what the script you're downloading and executing to install it does, [read this](https://docs.brew.sh/Installation).
 [^git]: Git is a version control system used primarily in software development. We're using it to get the latest version of the Proxmark software. The "clone" command is used when you haven't gotten something for the first time. When we update, we'll use "pull" to pull down the latest version. We'll still need to update the makefile, build, and flash again after that to finish the update.
 [^makefile]: This puts us in the correct directory and selects the appropriate "makefile” for building the Proxmark software and then opens the text editor "nano" so we can make a change.
