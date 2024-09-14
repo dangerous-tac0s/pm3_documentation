@@ -57,6 +57,7 @@ DESFires are expensive secure chips that can run "applications." As such, they h
 ---
 
 ### Proxmark
+- [Video on identifying chips with a Proxmark - (6:35)](https://www.youtube.com/watch?v=CzWsAd_b07s)
 
 #### Low Frequency
 
