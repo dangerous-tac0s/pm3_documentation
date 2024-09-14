@@ -9,7 +9,7 @@ Have a suggestion? See a mistake? Contact [me](mailto:operations@dangerousthings
 - [Mac](setup/MAC.md)
   
 #### Learning the Proxmark
-- [Basic Usage](basics/PROXMARK_BASICS.md) - ***Coming Soon™!***
+- [Basic Usage](basics/PROXMARK_BASICS.md) - ***In Progress!***
 - [Updating](basics/UPDATE_PROXMARK.md) - ***Coming Soon™!***
 
 ### More
